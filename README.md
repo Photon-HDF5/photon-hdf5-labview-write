@@ -16,7 +16,7 @@ The first two "Write" VIs need to be executed before running phforge Script.vi, 
 
 ![Write Temp Data HDF5 File.png](Figures/Write Temp Data HDF5 File.png?raw=true "Write Temp Data HDF5 File.vi")
 
-<b>Write Temp Data HDF5 File.vi</b> is a VI that writes the measurement's data in a temporary HDF5 file used by <b>phforge Script.vi</b>. The VI takes two arrays (Photon Detector IDs and Photon Time Stamps) as imput arguments. This VI requires that the HDF5 library and h5labview wrapper be installed.
+<b>Write Temp Data HDF5 File.vi</b> is a VI that writes the measurement's data in a temporary HDF5 file used by <b>phforge Script.vi</b>. The VI takes two arrays (Photon Detector IDs and Photon Time Stamps) as input arguments. This VI requires that the HDF5 library and h5labview wrapper be installed.
 
 ![phforge Script.png](Figures/phforge Script.png?raw=true "phforge Script.vi")
 
