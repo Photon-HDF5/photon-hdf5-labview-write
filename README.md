@@ -26,7 +26,3 @@ phforge Script returns the following parameters:
 - Standard Output: message returned by phforge
 - Standard Error: error message returned by phforge
 - Return Code: 0 if no error, 1 if an error occurred during the execution of phforge.
-
-![Boolean to String.png](Figures/Boolean to String.png?raw=true "Boolean to String.vi")
-
-Boolean to String.vi is a simple utility used by Write Temp YAML File.vi
