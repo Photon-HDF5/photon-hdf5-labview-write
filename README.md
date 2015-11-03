@@ -9,7 +9,7 @@ This repository contains 4 LabVIEW 2010 VIs:
 
 The two "Write" VIs need to be executed before running phforge Script.vi, as the files they generate need to be passed as arguments of the Script.
 
-![Write Temp YAML File.png](Figures/Write Temp YAML File.png?raw=true "Write Temp YAML File.vi")
+![Write Temp YAML File.vi Front Panel](Figures/Write Temp YAML File.vi Front Panel.png?raw=true "Write Temp YAML File.vi Front Pane;")
 
 <b>Write Temp YAML File.vi</b> is a simple example showing how to write the information needed to describe a single-laser, two detectors smFRET experiment. <b>Boolean to String.vi</b> is a utility used by this VI.
 
