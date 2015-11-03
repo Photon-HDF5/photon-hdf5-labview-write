@@ -1,5 +1,6 @@
 # photon-hdf5-labview-write
-Example of how to write the files needed to use phforge, and how to call phforge in LabVIEW (to learn more about phforge, please visit: https://github.com/Photon-HDF5/phforge).
+
+Example of how to write the files needed to use phforge, and how to call phforge in LabVIEW (to learn more about phforge, please visit: http://photon-hdf5.github.io/phforge/).
 
 This repository contains 5 LabVIEW (version 2010) VIs:
 
